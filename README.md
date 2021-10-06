@@ -1,7 +1,7 @@
 # petsc_install
 This repo contains configure file(s) used for installing petsc
 
-Copy the configure file into the folder `config/exmaples/`
+Copy the configure file into the folder `config/examples/`
 
 Run the configure file from the root petsc directory, for example, by
 
